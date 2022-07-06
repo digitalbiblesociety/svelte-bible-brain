@@ -2,7 +2,4 @@
 	import AudioPlayer from '$lib/AudioPlayer.svelte';
 </script>
 
-<AudioPlayer />
-
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<AudioPlayer key="809db3bd83c66f3bc41be0cbd6bd1e3f" />

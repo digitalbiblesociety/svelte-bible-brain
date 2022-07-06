@@ -59,7 +59,6 @@ const options = {
 
 export let book_id = ''
 
-console.log(options[book_id])
 </script>
 
 <img class="w-20 h-20 object-cover rounded object-top" src={options[book_id]} />
